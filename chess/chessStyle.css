@@ -1,0 +1,226 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+#container {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.amongs {
+  position: absolute !important;
+  left: calc(50% - 150px);
+  top: calc(50% - 50px);
+  width: 300px;
+  height: 100px;
+  border: 2px solid black;
+  background: lightgreen;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: xx-large;
+  font-weight: 600;
+}
+.amongsBtn {
+  border: 1px solid transparent;
+  background: darkgreen;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  position: absolute !important;
+  width: 75px;
+  height: 25px;
+  right: 10px;
+  bottom: 10px;
+  cursor: pointer;
+}
+#board {
+  position: absolute;
+  left: 20.5%;
+  height: 98%;
+}
+#board td {
+  border: 1px solid black;
+  height: 75px;
+  width: 75px;
+  text-align: center;
+}
+#playBtn {
+  margin: 5%;
+  width: calc(100% - 10%);
+  background: rgba(0, 100, 0, 0.8);
+  border: 1px solid transparent;
+  height: 50px;
+  border-radius: 10px;
+  color: white;
+  font-size: xx-large;
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+  cursor:pointer;
+}
+#loginBtn {
+  margin: 0% 5% 0% 5%;
+  width: calc(100% - 10%);
+  background: #ececd0;
+  border: 1px solid transparent;
+  height: 50px;
+  border-radius: 10px;
+  color: black;
+  font-size: xx-large;
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+  cursor:pointer;
+}
+.title {
+  text-align: center;
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+  font-weight: bold;
+  color: green;
+}
+#signinBtn {
+  margin: 5% 5% 5% 5%;
+  width: calc(100% - 10%);
+  background: #779557;
+  border: 1px solid transparent;
+  height: 50px;
+  border-radius: 10px;
+  color: black;
+  font-size: xx-large;
+  font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
+  cursor:pointer;
+}
+.tableRow:nth-child(2n) td:nth-child(2n) {
+  background-color: #779557;
+}
+.tableRow:nth-child(2n + 1) td:nth-child(2n + 1) {
+  background-color: #779557;
+}
+.tableRow:nth-child(2n) td:nth-child(2n + 1) {
+  background-color: #ececd0;
+}
+.tableRow:nth-child(2n + 1) td:nth-child(2n) {
+  background-color: #ececd0;
+}
+#board :nth-child(1n) {
+  position: relative;
+}
+.arrowsContainer {
+  position: absolute !important;
+  width: 50% !important;
+  height: 20% !important;
+  border: 1px solid black !important;
+  right: 0 !important;
+  top: 0 !important;
+  background: rgba(355,355,355,0.5) !important;
+}
+.arrowsContainer td {
+  background-color: transparent !important;
+  padding: 0px !important;
+  height: calc(75px/4) !important;
+  width: calc(75px / 2) !important;
+}
+img {
+  height: 50px;
+}
+.dotted {
+  background-color: rgba(0, 95, 25, 0.8);
+}
+#menuBar {
+  position: absolute;
+  height: 100%;
+  width: 20%;
+  border: 1px solid black;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  top: 0;
+}
+
+/* ------------------------- SYMBOLS ------------------------- */
+
+.a_f1 {
+  background: url('symbols/a1.png');
+  background-size: cover;
+}
+.a_l1-r1 {
+  background: url('symbols/al1r1.png');
+  background-size: cover;
+}
+.m_f1 {
+  background: url('symbols/m1.png');
+  background-size: cover;
+}
+.m_f2 {
+  background: url('symbols/m2.png');
+  background-size: cover;
+}
+.m_f3 {
+  background: url('symbols/m3.png');
+  background-size: cover;
+}
+
+/* ------------------------- PIECES ------------------------- */
+
+.whitePawn {
+  background: url('img/wpawn.png');
+  background-size: cover;
+}
+.whiteKnight {
+  background: url('img/wknight.png');
+  background-size: cover;
+}
+.whiteRook {
+  background: url('img/wrook.png');
+  background-size: cover;
+}
+.whiteKing {
+  background: url('img/wking.png');
+  background-size: cover;
+}
+.whiteQueen {
+  background: url('img/wqueen.png');
+  background-size: cover;
+}
+.whiteBishop {
+  background: url('img/wbishop.png');
+  background-size: cover;
+}
+.blackPawn {
+  background: url('img/bpawn.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.blackKnight {
+  background: url('img/bknight.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.blackRook {
+  background: url('img/brook.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.blackKing {
+  background: url('img/bking.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.blackQueen {
+  background: url('img/bqueen.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.blackBishop {
+  background: url('img/bbishop.png');
+  background-size: cover;
+  transform: rotate(180deg);
+}
+.whiteSuperpawn {
+  background: url('img/wpawn.png');
+  background-size: cover;
+  transform: rotate(-90deg);
+}
+.blackSuperpawn {
+  background: url('img/bpawn.png');
+  background-size: cover;
+  transform: rotate(270deg);
+}

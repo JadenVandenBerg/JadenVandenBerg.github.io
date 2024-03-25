@@ -47,7 +47,7 @@ nav {
     margin: 0 15px 0 15px;
 }
 
-.nav-links a {
+.nav-links a, .nav-links select {
     box-sizing: border-box;
     height: 100%;
     padding: 20px;
@@ -56,6 +56,13 @@ nav {
     font-size: 18px;
 }
 
+#projects a {
+    text-decoration: none;
+}
+
+#projects a:hover {
+    background-color: #000000A0;
+}
 .nav-links a:hover {
     background-color: #000000A0;
 }
