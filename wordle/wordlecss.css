@@ -1,7 +1,13 @@
 h1 {
     text-align: center;
 }
+html, body {
+    background: linear-gradient(white, green);
+    background-size: cover;
+    height: 100%;
+}
 table {
+    background: white;
     border: 2px solid black;
     padding: 5px;
     margin: auto;
