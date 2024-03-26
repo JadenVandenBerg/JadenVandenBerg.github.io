@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wordle</title>
+    <link rel="stylesheet" href="wordlecss.css">
+    <script type="text/javascript" src='wordle.js'></script>
+</head>
+<body>
+    <h1>Wordle</h1>
+    <table id="game" cellspacing="5">
+        <tr id="guess1">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="guess2">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="guess3">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="guess4">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="guess5">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr id="guess6">
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <div class="center">
+        <input type="text" name="guess" id='guess'><button id="submit">Guess</button>
+    </div>
+    <div class="center">
+        <table id="letters">
+            <tr>
+                <td class='letter' id='a'>a</td>
+                <td class='letter' id='b'>b</td>
+                <td class='letter' id='c'>c</td>
+                <td class='letter' id='d'>d</td>
+                <td class='letter' id='e'>e</td>
+                <td class='letter' id='f'>f</td>
+                <td class='letter' id='g'>g</td>
+                <td class='letter' id='h'>h</td>
+                <td class='letter' id='i'>i</td>
+                <td class='letter' id='j'>j</td>
+                <td class='letter' id='k'>k</td>
+                <td class='letter' id='l'>l</td>
+                <td class='letter' id='m'>m</td>
+            </tr>
+            <tr>
+                <td class='letter' id='n'>n</td>
+                <td class='letter' id='o'>o</td>
+                <td class='letter' id='p'>p</td>
+                <td class='letter' id='q'>q</td>
+                <td class='letter' id='r'>r</td>
+                <td class='letter' id='s'>s</td>
+                <td class='letter' id='t'>t</td>
+                <td class='letter' id='u'>u</td>
+                <td class='letter' id='v'>v</td>
+                <td class='letter' id='w'>w</td>
+                <td class='letter' id='x'>x</td>
+                <td class='letter' id='y'>y</td>
+                <td class='letter' id='z'>z</td>
+            </tr>
+        </table>
+    </div>
+    <p id='error' class="center hidden"></p>
+    <button class='center hidden' id='playAgain'>Play Again</button>
+</body>
+</html>
