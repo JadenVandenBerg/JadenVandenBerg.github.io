@@ -14,8 +14,8 @@ body {
     flex-direction: column;
     font-family: Arial, Helvetica, sans-serif !important;
     line-height: 1.6;
-    background: linear-gradient(rgb(14, 69, 0), green, rgb(14, 69, 0)) center center;
     background-size: cover;
+    animation: pulse 10s infinite;
 }
 
 header, footer {
@@ -23,6 +23,10 @@ header, footer {
     color: #fff;
     text-align: center;
     padding: 1rem 0;
+}
+
+footer.contact {
+    margin: 0;
 }
 
 nav {
@@ -61,10 +65,10 @@ nav {
 }
 
 #projects a:hover {
-    background-color: #000000A0;
+    animation: pulse2 5s infinite;
 }
 .nav-links a:hover {
-    background-color: #000000A0;
+    animation: pulse2 5s infinite;
 }
 
 .main-container {
@@ -104,13 +108,27 @@ article {
     padding: 20px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .main-container {
         flex-direction: column;
     }
 
     main {
         margin-right: 0;
+    }
+
+    #projects {
+        display: grid;
+        grid-template-columns: 100% !important;
+    }
+
+    nav .nav-links {
+        display: grid !important;
+        grid-template-columns: 50% 50% !important;
+    }
+
+    nav a:hover {
+        background: none !important;
     }
 }
 
@@ -195,6 +213,10 @@ article {
     border-bottom: 0px;
 }
 
+#projects a {
+    display: flex;
+}
+
 #projectsParent h2 {
     text-align: center;
     padding: 1rem 0;
@@ -204,4 +226,16 @@ article {
 
 #projectsParent {
     background: transparent;
+}
+
+@keyframes pulse {
+    0% {background: rgb(20 100 0);}
+    50% {background: green; }
+    100% {background: rgb(20, 100, 0);}
+}
+
+@keyframes pulse2 {
+    0% {background-color: #000000A0;}
+    50% {background-color: #00000045;}
+    100% {background-color: #000000A0;}
 }

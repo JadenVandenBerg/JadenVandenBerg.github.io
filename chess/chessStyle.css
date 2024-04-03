@@ -59,6 +59,18 @@ html, body {
   font-family: Arial Black,Arial Bold,Gadget,sans-serif; 
   cursor:pointer;
 }
+a {
+    margin: 5%;
+    width: calc(100% - 10%) !important;
+    background: rgba(0, 100, 0, 0.8);
+    border: 1px solid transparent;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial Black,Arial Bold,sans-serif; 
+    cursor:pointer;
+  }
 #loginBtn {
   margin: 0% 5% 0% 5%;
   width: calc(100% - 10%);
