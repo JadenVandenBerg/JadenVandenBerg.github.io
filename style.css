@@ -53,8 +53,22 @@ nav {
 
 .nav-links a, .nav-links select {
     box-sizing: border-box;
+    background: transparent;
+    border: none;
     height: 100%;
     padding: 20px;
+    margin: none;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.dropbtn {
+    box-sizing: border-box;
+    background: transparent;
+    border: none;
+    padding: 5px;
+    margin: none;
     color: white;
     text-decoration: none;
     font-size: 18px;
@@ -67,7 +81,7 @@ nav {
 #projects a:hover {
     animation: pulse2 5s infinite;
 }
-.nav-links a:hover {
+.nav-links a:hover, .nav-links .dropdown:hover {
     animation: pulse2 5s infinite;
 }
 
@@ -238,4 +252,40 @@ article {
     0% {background-color: #000000A0;}
     50% {background-color: #00000045;}
     100% {background-color: #000000A0;}
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    left: 0;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #ddd;
+    color: black;
 }
