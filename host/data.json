@@ -1,0 +1,542 @@
+{
+    "Cuphead": {
+        "views": 8689,
+        "likes": 140,
+        "comments": 13,
+        "length": 3614,
+        "numGames": 29,
+        "worstBoss": 20,
+        "vpg": 299.62068965517244,
+        "lpg": 124.62068965517241
+    },
+    "Pixel Gun 3D": {
+        "views": 7486,
+        "likes": 40,
+        "comments": 5,
+        "length": 1580,
+        "numGames": 34,
+        "worstBoss": 57,
+        "vpg": 220.1764705882353,
+        "lpg": 46.470588235294116
+    },
+    "Kirby: Nightmare in Dream Land": {
+        "views": 3589,
+        "likes": 72,
+        "comments": 7,
+        "length": 1277,
+        "numGames": 18,
+        "worstBoss": 52,
+        "vpg": 199.38888888888889,
+        "lpg": 70.94444444444444
+    },
+    "Super Meat Boy Forever": {
+        "views": 773,
+        "likes": 9,
+        "comments": 0,
+        "length": 1658,
+        "numGames": 5,
+        "worstBoss": 18,
+        "vpg": 154.6,
+        "lpg": 331.6
+    },
+    "Crypt Custodian": {
+        "views": 1965,
+        "likes": 28,
+        "comments": 14,
+        "length": 2062,
+        "numGames": 13,
+        "worstBoss": 52,
+        "vpg": 151.15384615384616,
+        "lpg": 158.6153846153846
+    },
+    "Kirby & The Amazing Mirror": {
+        "views": 2674,
+        "likes": 44,
+        "comments": 2,
+        "length": 1759,
+        "numGames": 18,
+        "worstBoss": 58,
+        "vpg": 148.55555555555554,
+        "lpg": 97.72222222222223
+    },
+    "Yoshi's Island: Super Mario Advance 3": {
+        "views": 1090,
+        "likes": 13,
+        "comments": 2,
+        "length": 1933,
+        "numGames": 12,
+        "worstBoss": 18,
+        "vpg": 90.83333333333333,
+        "lpg": 161.08333333333334
+    },
+    "New Super Mario Bros.": {
+        "views": 1306,
+        "likes": 13,
+        "comments": 4,
+        "length": 2154,
+        "numGames": 19,
+        "worstBoss": 15,
+        "vpg": 68.73684210526316,
+        "lpg": 113.36842105263158
+    },
+    "Kirby's Return to Dream Land": {
+        "views": 1179,
+        "likes": 29,
+        "comments": 4,
+        "length": 2417,
+        "numGames": 19,
+        "worstBoss": 11,
+        "vpg": 62.05263157894737,
+        "lpg": 127.21052631578948
+    },
+    "Hollow Knight": {
+        "views": 2973,
+        "likes": 87,
+        "comments": 19,
+        "length": 9436,
+        "numGames": 49,
+        "worstBoss": 1,
+        "vpg": 60.673469387755105,
+        "lpg": 192.57142857142858
+    },
+    "Kirby's Epic Yarn": {
+        "views": 776,
+        "likes": 25,
+        "comments": 0,
+        "length": 1900,
+        "numGames": 13,
+        "worstBoss": 15,
+        "vpg": 59.69230769230769,
+        "lpg": 146.15384615384616
+    },
+    "Islets": {
+        "views": 1004,
+        "likes": 19,
+        "comments": 4,
+        "length": 2148,
+        "numGames": 17,
+        "worstBoss": 19,
+        "vpg": 59.05882352941177,
+        "lpg": 126.3529411764706
+    },
+    "Metroid: Zero Mission": {
+        "views": 499,
+        "likes": 14,
+        "comments": 4,
+        "length": 1487,
+        "numGames": 9,
+        "worstBoss": 8,
+        "vpg": 55.44444444444444,
+        "lpg": 165.22222222222223
+    },
+    "Hollow Knight: Radiant": {
+        "views": 684,
+        "likes": 18,
+        "comments": 7,
+        "length": 927,
+        "numGames": 13,
+        "worstBoss": 0,
+        "vpg": 52.61538461538461,
+        "lpg": 71.3076923076923
+    },
+    "ELDEN RING": {
+        "views": 216,
+        "likes": 7,
+        "comments": 7,
+        "length": 835,
+        "numGames": 5,
+        "worstBoss": 0,
+        "vpg": 43.2,
+        "lpg": 167.0
+    },
+    "Kirby: Mass Attack": {
+        "views": 875,
+        "likes": 37,
+        "comments": 1,
+        "length": 3883,
+        "numGames": 22,
+        "worstBoss": 5,
+        "vpg": 39.77272727272727,
+        "lpg": 176.5
+    },
+    "Shovel Knight: King of Cards": {
+        "views": 834,
+        "likes": 21,
+        "comments": 1,
+        "length": 3496,
+        "numGames": 22,
+        "worstBoss": 4,
+        "vpg": 37.90909090909091,
+        "lpg": 158.9090909090909
+    },
+    "Risk of Rain 2": {
+        "views": 1583,
+        "likes": 24,
+        "comments": 17,
+        "length": 3271,
+        "numGames": 48,
+        "worstBoss": 0,
+        "vpg": 32.979166666666664,
+        "lpg": 68.14583333333333
+    },
+    "Mario and Luigi: Superstar Saga": {
+        "views": 289,
+        "likes": 3,
+        "comments": 0,
+        "length": 3812,
+        "numGames": 9,
+        "worstBoss": 2,
+        "vpg": 32.111111111111114,
+        "lpg": 423.55555555555554
+    },
+    "Shovel Knight: Showdown": {
+        "views": 364,
+        "likes": 6,
+        "comments": 0,
+        "length": 15292,
+        "numGames": 12,
+        "worstBoss": 4,
+        "vpg": 30.333333333333332,
+        "lpg": 1274.3333333333333
+    },
+    "Garfield And His Nine Lives": {
+        "views": 73,
+        "likes": 0,
+        "comments": 0,
+        "length": 224,
+        "numGames": 3,
+        "worstBoss": 8,
+        "vpg": 24.333333333333332,
+        "lpg": 74.66666666666667
+    },
+    "Kirby's Dream Land": {
+        "views": 173,
+        "likes": 2,
+        "comments": 0,
+        "length": 452,
+        "numGames": 8,
+        "worstBoss": 7,
+        "vpg": 21.625,
+        "lpg": 56.5
+    },
+    "Undertale": {
+        "views": 466,
+        "likes": 31,
+        "comments": 27,
+        "length": 6285,
+        "numGames": 22,
+        "worstBoss": 0,
+        "vpg": 21.181818181818183,
+        "lpg": 285.6818181818182
+    },
+    "SHEEPO": {
+        "views": 136,
+        "likes": 2,
+        "comments": 0,
+        "length": 1156,
+        "numGames": 7,
+        "worstBoss": 4,
+        "vpg": 19.428571428571427,
+        "lpg": 165.14285714285714
+    },
+    "Wuppo": {
+        "views": 381,
+        "likes": 10,
+        "comments": 5,
+        "length": 2917,
+        "numGames": 20,
+        "worstBoss": 6,
+        "vpg": 19.05,
+        "lpg": 145.85
+    },
+    "Terraria": {
+        "views": 17,
+        "likes": 2,
+        "comments": 0,
+        "length": 147,
+        "numGames": 1,
+        "worstBoss": 17,
+        "vpg": 17.0,
+        "lpg": 147.0
+    },
+    "Shovel Knight: Specter of Torment": {
+        "views": 190,
+        "likes": 11,
+        "comments": 2,
+        "length": 1431,
+        "numGames": 13,
+        "worstBoss": 2,
+        "vpg": 14.615384615384615,
+        "lpg": 110.07692307692308
+    },
+    "Donkey Kong Country": {
+        "views": 99,
+        "likes": 5,
+        "comments": 1,
+        "length": 896,
+        "numGames": 7,
+        "worstBoss": 1,
+        "vpg": 14.142857142857142,
+        "lpg": 128.0
+    },
+    "Kirby: Squeak Squad": {
+        "views": 279,
+        "likes": 41,
+        "comments": 0,
+        "length": 1304,
+        "numGames": 20,
+        "worstBoss": 5,
+        "vpg": 13.95,
+        "lpg": 65.2
+    },
+    "Wanderer": {
+        "views": 35,
+        "likes": 5,
+        "comments": 1,
+        "length": 204,
+        "numGames": 3,
+        "worstBoss": 1,
+        "vpg": 11.666666666666666,
+        "lpg": 68.0
+    },
+    "Shovel Knight: Shovel of Hope": {
+        "views": 189,
+        "likes": 18,
+        "comments": 2,
+        "length": 1968,
+        "numGames": 18,
+        "worstBoss": 4,
+        "vpg": 10.5,
+        "lpg": 109.33333333333333
+    },
+    "Robot Wants Fishy": {
+        "views": 61,
+        "likes": 0,
+        "comments": 0,
+        "length": 484,
+        "numGames": 6,
+        "worstBoss": 5,
+        "vpg": 10.166666666666666,
+        "lpg": 80.66666666666667
+    },
+    "Steamworld Dig": {
+        "views": 10,
+        "likes": 0,
+        "comments": 0,
+        "length": 464,
+        "numGames": 1,
+        "worstBoss": 10,
+        "vpg": 10.0,
+        "lpg": 464.0
+    },
+    "Depths of Sanity": {
+        "views": 9,
+        "likes": 0,
+        "comments": 0,
+        "length": 346,
+        "numGames": 1,
+        "worstBoss": 9,
+        "vpg": 9.0,
+        "lpg": 346.0
+    },
+    "Super Mario Galaxy": {
+        "views": 193,
+        "likes": 1,
+        "comments": 0,
+        "length": 4343,
+        "numGames": 24,
+        "worstBoss": 1,
+        "vpg": 8.041666666666666,
+        "lpg": 180.95833333333334
+    },
+    "Guacamelee!": {
+        "views": 43,
+        "likes": 0,
+        "comments": 0,
+        "length": 1495,
+        "numGames": 6,
+        "worstBoss": 0,
+        "vpg": 7.166666666666667,
+        "lpg": 249.16666666666666
+    },
+    "Dan The Man Mobile": {
+        "views": 14,
+        "likes": 0,
+        "comments": 0,
+        "length": 148,
+        "numGames": 2,
+        "worstBoss": 6,
+        "vpg": 7.0,
+        "lpg": 74.0
+    },
+    "Robot Wants Kitty Mobile": {
+        "views": 20,
+        "likes": 1,
+        "comments": 0,
+        "length": 157,
+        "numGames": 3,
+        "worstBoss": 4,
+        "vpg": 6.666666666666667,
+        "lpg": 52.333333333333336
+    },
+    "Berry": {
+        "views": 13,
+        "likes": 0,
+        "comments": 0,
+        "length": 288,
+        "numGames": 2,
+        "worstBoss": 2,
+        "vpg": 6.5,
+        "lpg": 144.0
+    },
+    "Red Ball 4 Mobile": {
+        "views": 32,
+        "likes": 1,
+        "comments": 1,
+        "length": 569,
+        "numGames": 5,
+        "worstBoss": 1,
+        "vpg": 6.4,
+        "lpg": 113.8
+    },
+    "Tails of Iron": {
+        "views": 146,
+        "likes": 10,
+        "comments": 2,
+        "length": 3168,
+        "numGames": 25,
+        "worstBoss": 0,
+        "vpg": 5.84,
+        "lpg": 126.72
+    },
+    "Super Metroid": {
+        "views": 51,
+        "likes": 1,
+        "comments": 0,
+        "length": 1291,
+        "numGames": 9,
+        "worstBoss": 0,
+        "vpg": 5.666666666666667,
+        "lpg": 143.44444444444446
+    },
+    "Risk of Rain": {
+        "views": 85,
+        "likes": 1,
+        "comments": 0,
+        "length": 1467,
+        "numGames": 16,
+        "worstBoss": 0,
+        "vpg": 5.3125,
+        "lpg": 91.6875
+    },
+    "Shovel Knight: Plague of Shadows": {
+        "views": 88,
+        "likes": 3,
+        "comments": 0,
+        "length": 2322,
+        "numGames": 17,
+        "worstBoss": 2,
+        "vpg": 5.176470588235294,
+        "lpg": 136.58823529411765
+    },
+    "Shadow of the Colossus": {
+        "views": 61,
+        "likes": 0,
+        "comments": 0,
+        "length": 8368,
+        "numGames": 15,
+        "worstBoss": 1,
+        "vpg": 4.066666666666666,
+        "lpg": 557.8666666666667
+    },
+    "Cave Crawler": {
+        "views": 4,
+        "likes": 0,
+        "comments": 0,
+        "length": 15,
+        "numGames": 1,
+        "worstBoss": 4,
+        "vpg": 4.0,
+        "lpg": 15.0
+    },
+    "The Binding of Isaac": {
+        "views": 19,
+        "likes": 3,
+        "comments": 0,
+        "length": 412,
+        "numGames": 6,
+        "worstBoss": 1,
+        "vpg": 3.1666666666666665,
+        "lpg": 68.66666666666667
+    },
+    "A Robot Named Fight": {
+        "views": 62,
+        "likes": 2,
+        "comments": 0,
+        "length": 900,
+        "numGames": 20,
+        "worstBoss": 1,
+        "vpg": 3.1,
+        "lpg": 45.0
+    },
+    "Blasphemous": {
+        "views": 6,
+        "likes": 1,
+        "comments": 1,
+        "length": 349,
+        "numGames": 2,
+        "worstBoss": 0,
+        "vpg": 3.0,
+        "lpg": 174.5
+    },
+    "Haiku, The Robot": {
+        "views": 8,
+        "likes": 0,
+        "comments": 0,
+        "length": 330,
+        "numGames": 3,
+        "worstBoss": 1,
+        "vpg": 2.6666666666666665,
+        "lpg": 110.0
+    },
+    "Robot Wants Kitty": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "length": 53,
+        "numGames": 1,
+        "worstBoss": 2,
+        "vpg": 2.0,
+        "lpg": 53.0
+    },
+    "Unturned": {
+        "views": 2,
+        "likes": 0,
+        "comments": 0,
+        "length": 44,
+        "numGames": 1,
+        "worstBoss": 2,
+        "vpg": 2.0,
+        "lpg": 44.0
+    },
+    "Robot Wants Puppy": {
+        "views": 1,
+        "likes": 0,
+        "comments": 0,
+        "length": 236,
+        "numGames": 2,
+        "worstBoss": 0,
+        "vpg": 0.5,
+        "lpg": 118.0
+    },
+    "Uncharted: Drake's Fortune": {
+        "views": 0,
+        "likes": 0,
+        "comments": 0,
+        "length": 392,
+        "numGames": 1,
+        "worstBoss": 0,
+        "vpg": 0.0,
+        "lpg": 392.0
+    }
+}
