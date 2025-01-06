@@ -18,6 +18,19 @@ body {
     animation: pulse 10s infinite;
 }
 
+.kennaHeader {
+    background: url("img/kenna.png");
+    background-size: contain;
+    background-color: #ffffff;
+    color: black;
+}
+
+.kennaHeader h1 {
+    width: auto !important;
+    padding: 5px;
+    background-color: white;
+}
+
 header, footer {
     background: #424242;
     color: #fff;
