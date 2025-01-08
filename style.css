@@ -26,8 +26,9 @@ body {
 }
 
 .kennaHeader h1 {
-    width: auto !important;
+    width: 500px !important;
     padding: 5px;
+    margin:auto;
     background-color: white;
 }
 
